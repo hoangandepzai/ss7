@@ -1,0 +1,37 @@
+.h1{
+    position: relative;
+    height: 200px;
+    width: 200px;
+    background-color: rgb(127, 129, 130);
+    border-radius: 50px;
+}
+.h2{
+    position: relative;
+    height: 200px;
+    width: 200px;
+    background-color: rgb(127, 129, 130);
+    border-radius: 50px;
+}
+.h3{
+    position: relative;
+    height: 200px;
+    width: 200px;
+    background-color: rgb(127, 129, 130);
+    border-radius: 50px;
+}
+img{
+    height: 50px;
+    width: 50px;
+}
+.h4{
+    position: absolute;
+    right: 0;
+}
+.h5{
+    position: absolute;
+    right: 0;
+}
+.h6{
+    position: absolute;
+    right: 0;
+}
